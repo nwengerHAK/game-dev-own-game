@@ -1,0 +1,1 @@
+player-spritesheets: https://craftpix.net/file-licenses/
