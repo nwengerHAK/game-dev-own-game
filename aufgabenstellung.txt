@@ -1,0 +1,18 @@
+Anforderungen Game
+
+Jump and Run
+
+alles Copyrightfrei!!! + link(Beweis)
+
+Gameplay zusammen bewerten
+
+alleine programmieren
+
+Präsentieren (Introvideo 30-60sec Ad) 
+
+spielbar(keine Bugs)
+
+Doku neuer Eintrag (Spiel-name)
+
+Deadline: 23.2.2024
+
