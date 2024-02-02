@@ -2,3 +2,6 @@ player-spritesheets: https://craftpix.net/file-licenses/
 background imgs: https://craftpix.net/file-licenses/
 fruits: https://craftpix.net/file-licenses/
 obstacles: https://craftpix.net/file-licenses/
+enemies-orcs: https://craftpix.net/file-licenses/
+enemies-fireplantskeleton: https://craftpix.net/file-licenses/
+bosses: https://craftpix.net/file-licenses/
