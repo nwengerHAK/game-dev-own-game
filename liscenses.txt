@@ -1,2 +1,4 @@
 player-spritesheets: https://craftpix.net/file-licenses/
 background imgs: https://craftpix.net/file-licenses/
+fruits: https://craftpix.net/file-licenses/
+obstacles: https://craftpix.net/file-licenses/
