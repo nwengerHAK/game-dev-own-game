@@ -69,6 +69,28 @@ import skeletonRun from './assets/enemy-fireplantskeleton/Skeleton/Run.png'
 import skeletonSpecAttack from './assets/enemy-fireplantskeleton/Skeleton/Special_attack.png'
 import skeletonWalk from './assets/enemy-fireplantskeleton/Skeleton/Walk.png'
 
+import orcBerserkIdle from '/assets/enemy-orc/Orc_Berserk/Idle.png'
+import orcBerserkAttack1 from '/assets/enemy-orc/Orc_Berserk/Attack_1.png'
+import orcBerserkAttack2 from '/assets/enemy-orc/Orc_Berserk/Attack_2.png'
+import orcBerserkAttack3 from '/assets/enemy-orc/Orc_Berserk/Attack_3.png'
+import orcBerserkDead from '/assets/enemy-orc/Orc_Berserk/Dead.png'
+import orcBerserkHurt from '/assets/enemy-orc/Orc_Berserk/Hurt.png'
+import orcBerserkJump from '/assets/enemy-orc/Orc_Berserk/Jump.png'
+import orcBerserkRun from '/assets/enemy-orc/Orc_Berserk/Run.png'
+import orcBerserkWalk from '/assets/enemy-orc/Orc_Berserk/Walk.png'
+import orcBerserkRunAttack from '/assets/enemy-orc/Orc_Berserk/Run+Attack.png'
+
+import orcShamanAttack1 from '/assets/enemy-orc/Orc_Shaman/Attack_1.png'
+import orcShamanAttack2 from '/assets/enemy-orc/Orc_Shaman/Attack_2.png'
+import orcShamanDead from '/assets/enemy-orc/Orc_Shaman/Dead.png'
+import orcShamanHurt from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanIdle from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanJump from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanMagic1 from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanMagic2 from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanRun from '/assets/enemy-orc/Orc_Shaman'
+import orcShamanWalk from '/assets/enemy-orc/Orc_Shaman'
+
 
 class MyGame extends Phaser.Scene
 {
